@@ -1,0 +1,53 @@
+{
+  "document": {
+    "category": "csaf_security_advisory",
+    "csaf_version": "2.0",
+    "tracking": {
+      "generator": {
+        "date": "2025-06-24T10:33:38.663Z",
+        "engine": {
+          "name": "Secvisogram",
+          "version": "2.5.28-1-gcb167ba9"
+        }
+      }
+    },
+    "publisher": {
+      "category": "vendor",
+      "contact_details": "Wir können unter security@aunovis.de oder über unser Kontaktformular unter https://www.aunovis.de/kontakt/ erreicht werden.",
+      "issuing_authority": "Wir entwickeln Software im Umfeld Industrie 4.0.",
+      "name": "AUNOVIS GmbH",
+      "namespace": "https://aunovis.de"
+    },
+    "distribution": {
+      "tlp": {
+        "label": "AMBER",
+        "url": "https://www.first.org/tlp/v1/"
+      }
+    },
+    "lang": "en"
+  },
+  "product_tree": {
+    "branches": [
+      {
+        "category": "vendor",
+        "name": "AUNOVIS GmbH",
+        "branches": [
+          {
+            "category": "product_name",
+            "name": "Q!Vizar Experience",
+            "branches": [
+              {
+                "category": "product_version",
+                "name": "1.0.0",
+                "product": {
+                  "name": "AUNOVIS Q!Vizar Remote Assist 1.0.0",
+                  "product_id": "qvizar_remote_assist_1.0.0"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
