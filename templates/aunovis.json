@@ -4,7 +4,7 @@
     "csaf_version": "2.0",
     "tracking": {
       "generator": {
-        "date": "2025-06-22T05:32:15.116Z",
+        "date": "2025-06-24T06:01:21.650Z",
         "engine": {
           "name": "Secvisogram",
           "version": "2.5.28-1-gcb167ba9"
@@ -23,6 +23,7 @@
         "label": "AMBER",
         "url": "https://www.first.org/tlp/v1/"
       }
-    }
+    },
+    "lang": "en"
   }
 }
