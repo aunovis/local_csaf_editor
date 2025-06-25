@@ -15,6 +15,12 @@ node_major=${node_version#v}
 node_major=${node_major%%.*}
 if (( node_major < 20 )); then
     echo "Error: Node.js major version needs to be 20 or higher."
+    echo "If you use nvm, you can run "
+    echo 'nvm install node'
+    echo "to install the latest version, and"
+    echo 'nvm use node'
+    echo "to use it in this shell."
+    exit 1
 fi
 
 if ! command -v npm > /dev/null; then
