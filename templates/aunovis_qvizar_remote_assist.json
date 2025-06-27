@@ -13,8 +13,8 @@
     },
     "publisher": {
       "category": "vendor",
-      "contact_details": "Wir können unter security@aunovis.de oder über unser Kontaktformular unter https://www.aunovis.de/kontakt/ erreicht werden.",
-      "issuing_authority": "Wir entwickeln Software im Umfeld Industrie 4.0.",
+      "contact_details": "You can contact us via security@aunovis.de, or by using our contact form under https://www.aunovis.de/kontakt/.",
+      "issuing_authority": "We develop software in the context of industry 4.0.",
       "name": "AUNOVIS GmbH",
       "namespace": "https://aunovis.de"
     },
