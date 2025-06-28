@@ -2,6 +2,8 @@
 
 Getting started with writing documents adhering to the Common Security Advisory Framework (CSAF) [Standard](https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.html) can be a bit overwhelming. This repo offers utility functionality to ease the process.
 
+This readme describes how to start the CSAF editor and modify templates. Describing how to actually *write* CSAF documents would be beyond the scope of this repo. You can find instructions on how to get started under https://doc.bomnipotent.de/integration/secvisogram.
+
 ## Basic Usage
 
 ### Preparations
