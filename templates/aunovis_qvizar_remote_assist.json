@@ -1,0 +1,101 @@
+{
+  "document": {
+    "category": "csaf_security_advisory",
+    "csaf_version": "2.0",
+    "distribution": {
+      "tlp": {
+        "label": "AMBER",
+        "url": "https://www.first.org/tlp/v1/"
+      }
+    },
+    "lang": "en",
+    "publisher": {
+      "category": "vendor",
+      "contact_details": "You can contact us via security@aunovis.de, or by using our contact form under https://www.aunovis.de/kontakt/.",
+      "issuing_authority": "We develop software in the context of industry 4.0.",
+      "name": "AUNOVIS GmbH",
+      "namespace": "https://aunovis.de"
+    },
+    "tracking": {
+      "generator": {
+        "date": "2025-06-27T05:10:22.637Z",
+        "engine": {
+          "name": "Secvisogram",
+          "version": "2.5.29-1-g8025092f"
+        }
+      }
+    }
+  },
+  "product_tree": {
+    "branches": [
+      {
+        "branches": [
+          {
+            "branches": [
+              {
+                "branches": [
+                  {
+                    "category": "product_version",
+                    "name": "1.0.0",
+                    "product": {
+                      "name": "Q!Vizar Remote Assist Server 1.0.0",
+                      "product_id": "qvizar_remote_assist_server_1.0.0"
+                    }
+                  }
+                ],
+                "category": "product_name",
+                "name": "Remote Assist Server"
+              },
+              {
+                "branches": [
+                  {
+                    "category": "product_version",
+                    "name": "1.0.0",
+                    "product": {
+                      "name": "Q!Vizar Remote Assist Client 1.0.0",
+                      "product_id": "qvizar_remote_assist_client_1.0.0"
+                    }
+                  }
+                ],
+                "category": "product_name",
+                "name": "Remote Assist Client"
+              },
+              {
+                "branches": [
+                  {
+                    "category": "product_version",
+                    "name": "1.0.0",
+                    "product": {
+                      "name": "Q!Vizar Remote Assist HoloLens2 App 1.0.0",
+                      "product_id": "qvizar_remote_assist_hololens2_app_1.0.0"
+                    }
+                  }
+                ],
+                "category": "product_name",
+                "name": "Remote Assist HoloLens2 App"
+              },
+              {
+                "branches": [
+                  {
+                    "category": "product_version",
+                    "name": "1.0.0",
+                    "product": {
+                      "name": "Q!Vizar Remote Assist Magic Leap App 1.0.0",
+                      "product_id": "qvizar_remote_assist_magic_leap_app_1.0.0"
+                    }
+                  }
+                ],
+                "category": "product_name",
+                "name": "Remote Assist Magic Leap App"
+              }
+            ],
+            "category": "product_family",
+            "name": "Q!Vizar"
+          }
+        ],
+        "category": "vendor",
+        "name": "AUNOVIS GmbH"
+      }
+    ]
+  }
+}
